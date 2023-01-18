@@ -1,5 +1,11 @@
 #include <iostream>
 #include "include/Graph.hpp"
+#include <vector>
+#include <time.h>
+#include <stdlib.h>
+#include <algorithm>
+#include <fstream>
+#include <time.h> 
 
 
 int main() {
